@@ -2,8 +2,7 @@
 ## Ramses Alexander Coraspe Valdez
 The repository contains basic scripts using Python.
 <details open>   
-<summary> 1. <a href="https://wittline.github.io/Python/L1/L1-A00354777.html">L1</a></summary>
-   
+<summary> 1. <a href="https://wittline.github.io/Python/L1/L1-A00354777.html">L1</a></summary>   
 </details>
 
 ## Contributing and Feedback
