@@ -5,6 +5,10 @@ The repository contains basic scripts using Python.
 <summary> 1. <a href="https://wittline.github.io/Python/L1/L1-A00354777.html">L1</a></summary>   
 </details>
 
+<details open>   
+<summary> 2. <a href="https://wittline.github.io/Python/L2/L2-A00354777.html">L1</a></summary>   
+</details>
+
 ## Contributing and Feedback
 Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :)
 
