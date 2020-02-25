@@ -6,7 +6,7 @@ The repository contains basic scripts using Python.
 </details>
 
 <details open>   
-<summary> 2. <a href="https://wittline.github.io/Python/L2/L2-A00354777.html">L1</a></summary>   
+<summary> 2. <a href="https://wittline.github.io/Python/L2/L2-A00354777.html">L2</a></summary>   
 </details>
 
 ## Contributing and Feedback
