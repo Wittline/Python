@@ -2,11 +2,16 @@
 ## Ramses Alexander Coraspe Valdez
 The repository contains basic scripts using Python.
 <details open>   
-<summary> 1. <a href="https://wittline.github.io/Python/L1/L1-A00354777.html">L1</a></summary>   
+<summary> 1. <a href="https://wittline.github.io/Python/L1/L1-A00354777.html">L1 - Excercises</a></summary>   
 </details>
 
 <details open>   
-<summary> 2. <a href="https://wittline.github.io/Python/L2/L2-A00354777.html">L2</a></summary>   
+<summary> 2. <a href="https://wittline.github.io/Python/L2/L2-A00354777.html">L2 - Practicing with lists</a></summary>   
+</details>
+
+
+<details open>   
+<summary> 3. <a href="https://wittline.github.io/Python/L3/L3-A00354777.html">L3 - Unit Testing </a></summary>   
 </details>
 
 ## Contributing and Feedback
