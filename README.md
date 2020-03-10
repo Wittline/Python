@@ -31,10 +31,10 @@ The repository contains basic scripts using Python.
       <a href="https://wittline.github.io/Python/L4/4.2/PEP8/PEP8_Details.htm">Results for PEP8 requirements</a>                         
      </li>        
      <li>
-      <a href="https://wittline.github.io/Python/L4/4.2/PEP8/L3_PEP8.py">Style Code using PEP8 L3 (It only has 1 issue) </a>
+      <a href="https://wittline.github.io/Python/L4/4.2/PEP8/L3_PEP8.py">Style Code using PEP8 - L3 - (It only has 1 issue) </a>
      </li>          
      <li>
-      <a href="https://wittline.github.io/Python/L4/4.2/PEP8/L1_PEP8.py">Style Code using PEP8 L1 (It only has 1 issue) </a>
+      <a href="https://wittline.github.io/Python/L4/4.2/PEP8/L1_PEP8.py">Style Code using PEP8 - L1 - (It only has 1 issue) </a>
      </li>  
   </ul>    
 </details>
