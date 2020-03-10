@@ -27,7 +27,9 @@ The repository contains basic scripts using Python.
     <li>
         <a href="https://wittline.github.io/Python/L4/4.2/Coverage2/cov2_Ramses_Coraspe.html">Statement Coverage measure Lab 1</a>
     </li>    
-    <li>PEP8 Details</li>  
+    <li>
+        <a href="https://wittline.github.io/Python/L4/4.2/PEP8/PEP8_Details.htm">PEP8 Details</a>                              
+     </li>  
   </ul>    
 </details>
 
