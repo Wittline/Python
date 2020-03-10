@@ -19,7 +19,7 @@ The repository contains basic scripts using Python.
 </details>
 
 <details open>   
-<summary><a href="https://wittline.github.io/Python/L4/L42-A00354777.html">L4.2 - Coverage and Code Style</a></summary>
+<summary> L4.2 - Coverage and Code Style </summary>
     <ul style="font-weight: bold;">                
     <li>
         <a href="https://wittline.github.io/Python/L4/4.2/Coverage1/cov1_Ramses_Coraspe.html">Statement Coverage measure L3</a>
