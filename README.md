@@ -22,10 +22,10 @@ The repository contains basic scripts using Python.
 <summary><a href="https://wittline.github.io/Python/L4/L42-A00354777.html">L4.2 - Coverage and Code Style</a></summary>
     <ul style="font-weight: bold;">                
     <li>
-        <a href="https://wittline.github.io/Python/L4/4.2/Coverage1/cov1_Ramses_Coraspe.html">Statement Coverage measure Lab 3</a>
+        <a href="https://wittline.github.io/Python/L4/4.2/Coverage1/cov1_Ramses_Coraspe.html">Statement Coverage measure L3</a>
     </li>
     <li>
-        <a href="https://wittline.github.io/Python/L4/4.2/Coverage2/cov2_Ramses_Coraspe.html">Statement Coverage measure Lab 1</a>
+        <a href="https://wittline.github.io/Python/L4/4.2/Coverage2/cov2_Ramses_Coraspe.html">Statement Coverage measure L1</a>
     </li>    
     <li>
       <a href="https://wittline.github.io/Python/L4/4.2/PEP8/PEP8_Details.htm">Results for PEP8 requirements</a>                         
