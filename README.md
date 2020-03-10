@@ -23,7 +23,7 @@ The repository contains basic scripts using Python.
 </details>
 
 ## Contributing and Feedback
-Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :)
+Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :smile:
 
 ## Authors
 - Created by Ramses Alexander Coraspe Valdez
