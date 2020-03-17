@@ -39,6 +39,11 @@ The repository contains basic scripts using Python.
   </ul>    
 </details>
 
+<details open>   
+<summary><a href="https://wittline.github.io/Python/L5/L5-A00354777.html">L5 - Comparison of sorting algorithms with Python </a></summary> 
+    
+</details>
+
 ## Contributing and Feedback
 Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework :smile:
 
