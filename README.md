@@ -54,7 +54,7 @@ The repository contains basic scripts using Python.
 Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework
 
 ## Authors
-- Created by Ramses Alexander Coraspe Valdez
+- Created by <a href="https://www.linkedin.com/in/ramsescoraspe"><strong>Ramses Alexander Coraspe Valdez</strong></a>
 - Created on 2020
 
 ## License
