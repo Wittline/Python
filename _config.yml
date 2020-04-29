@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: "Ramses Alexander Coraspe Valdez </br> Software Analysis, Design and Construction with Python"
+description: "This repository contains some examples of using Unit Testing with python, Statement Coverage with Python, Code style PEP8, Logging with Python and How to generate documentation with python"
