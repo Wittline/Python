@@ -1,5 +1,4 @@
-# Python homeworks
-## Software Analysis, Design and Construction
+# Software Analysis, Design and Construction with Python
 ## Ramses Alexander Coraspe Valdez
 The repository contains basic scripts using Python.
 <details open>   
