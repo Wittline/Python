@@ -48,6 +48,9 @@ The repository contains basic scripts using Python.
 <details open>   
 <summary><a href="https://wittline.github.io/Python/L9/L9-A00354777.html">L9 - Logging in Python</a></summary> 
 </details>
+<details open>   
+<summary><a href="https://wittline.github.io/Python/L11/Barrier_example.html">L11 - Design Pattern: Barrier</a></summary> 
+</details>
 
 ## Contributing and Feedback
 Help me to improve, you can insult me, criticize me, eulogy me or just copy and paste my homework
